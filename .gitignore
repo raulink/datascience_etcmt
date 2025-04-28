@@ -89,4 +89,5 @@ target/
 # Mypy cache
 .mypy_cache/
 
-credentials.json
+credentials.*
+notebooks/Repuestos/credentials.json
