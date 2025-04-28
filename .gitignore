@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+c# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
@@ -88,3 +88,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+credentials.json
